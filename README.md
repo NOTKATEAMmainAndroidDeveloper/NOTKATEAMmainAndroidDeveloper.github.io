@@ -11,7 +11,6 @@
     1.3. By using the Application and creating an account, you agree to the terms of this Policy. If you do not agree to the terms, please do not use the Application.
    <br>
     1.4. The Application is designed for meditation and contains sets of various audio recordings for calming and relaxation.
-   <br>
 2. What Data We Collect
    <br>
     2.1. During Registration (optional for users):
@@ -25,7 +24,6 @@
     <br>
     2.3. Local Storage:
     Some data may be stored locally on your device (application settings, audio file cache, authorization tokens) to ensure the Application operates properly.
-    <br>
 3. Purposes of Personal Data Processing
    <br>
     3.1. We use your personal data for the following purposes:
@@ -38,7 +36,6 @@
     3.2. We do not use your data for marketing mailings, advertising, or behavioral analytics.
     <br>
     3.3. Sending notifications about changes to the Privacy Policy via email.
-    <br>
 4. Use of Third-Party Services
    <br>
     4.1. Proprietary Backend Server:
@@ -52,7 +49,6 @@
     <br>
     4.4. No Analytics:
     We do not use analytics services (Google Analytics, Firebase Analytics, Yandex Metrica, etc.) and do not track user behavior in the Application.
-    <br>
 
 5. Data Transfer to Third Parties
    <br>
