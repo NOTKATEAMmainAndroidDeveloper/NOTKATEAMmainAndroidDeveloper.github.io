@@ -3,7 +3,7 @@
 ### Effective Date: December 19, 2025
 
 1. General Provisions
-<br>
+   <br>
     1.1. This Privacy Policy (hereinafter referred to as the "Policy") defines the procedure for processing and protecting personal data of users of the Ever Zen mobile application (hereinafter referred to as the "Application").
    <br>
     1.2. The personal data operator is Individual Entrepreneur Volkova Svetlana Sergeevna (TIN: 771870471463), located at: Marshala Savitskogo 30k1, Moscow, Russia (hereinafter referred to as the "Operator", "we").
@@ -19,12 +19,12 @@
     - Email address
     - Username
     - Password (stored in encrypted form)
-      <br>
+      
     2.2. Automatically Collected Data:
-We do not automatically collect technical data (IP address, device information, geolocation, etc.).
+    We do not automatically collect technical data (IP address, device information, geolocation, etc.).
       <br>
     2.3. Local Storage:
-Some data may be stored locally on your device (application settings, audio file cache, authorization tokens) to ensure the Application operates properly.
+    Some data may be stored locally on your device (application settings, audio file cache, authorization tokens) to ensure the Application operates properly.
       <br><br>
 3. Purposes of Personal Data Processing
    <br>
