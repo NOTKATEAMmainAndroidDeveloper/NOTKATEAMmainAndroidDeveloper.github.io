@@ -13,7 +13,7 @@
     1.4. The Application is designed for meditation and contains sets of various audio recordings for calming and relaxation.
    <br><br>
 2. What Data We Collect
-<br>
+   <br>
     2.1. During Registration (optional for users):
 
     - Email address
@@ -22,10 +22,10 @@
       
     2.2. Automatically Collected Data:
     We do not automatically collect technical data (IP address, device information, geolocation, etc.).
-      <br>
+    <br>
     2.3. Local Storage:
     Some data may be stored locally on your device (application settings, audio file cache, authorization tokens) to ensure the Application operates properly.
-      <br><br>
+    <br><br>
 3. Purposes of Personal Data Processing
    <br>
     3.1. We use your personal data for the following purposes:
