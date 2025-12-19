@@ -29,30 +29,30 @@
 3. Purposes of Personal Data Processing
    <br>
     3.1. We use your personal data for the following purposes:
-   <br>
+
     - Creating and managing your account
     - Providing advanced Application features (personal achievements, progress tracking, adding content to favorites)
     - Recovering access to your account
     - Sending push notifications about new content and meditation reminders (with your consent)
-      <br>
+
     3.2. We do not use your data for marketing mailings, advertising, or behavioral analytics.
-      <br>
+    <br>
     3.3. Sending notifications about changes to the Privacy Policy via email.
-      <br><br>
+    <br><br>
 4. Use of Third-Party Services
    <br>
     4.1. Proprietary Backend Server:
     For processing accounts and authorization, we use our own backend server in the Go programming language. Servers are physically located in the Russian Federation.
-      <br>
+    <br>
     4.2. Yandex Cloud S3:
     Audio files for meditations are stored in Yandex Cloud S3 cloud storage. User personal data is not transferred to this service.
-      <br>
+    <br>
     4.3. Firebase Cloud Messaging:
     To send push notifications, we use Firebase Cloud Messaging service (Google LLC). Within this service, a device token is transmitted for notification delivery. Personal data (name, email) is not transferred.
-      <br>
+    <br>
     4.4. No Analytics:
     We do not use analytics services (Google Analytics, Firebase Analytics, Yandex Metrica, etc.) and do not track user behavior in the Application.
-      <br><br>
+    <br><br>
 
 5. Data Transfer to Third Parties
    <br>
@@ -63,7 +63,7 @@
     - Upon sale of the business, transfer of rights to the Application, or company merger
     - Upon request of authorized government agencies in cases provided by the legislation of the Russian Federation
     - With your explicit consent
-      <br><br>
+    <br>
 6. Data Storage and Protection
    <br>
    6.1. Storage Period:
@@ -161,13 +161,13 @@
    - Адрес электронной почты
    - Имя пользователя
    - Пароль (хранится в зашифрованном виде)
-     <br>
+
    2.2. Автоматически собираемые данные:
    Мы не собираем автоматически технические данные (IP-адрес, информацию об устройстве, геолокацию и т.д.).
-     <br>
+   <br>
    2.3. Локальное хранилище:
    Некоторые данные могут храниться локально на вашем устройстве (настройки приложения, кеш аудиофайлов, токены авторизации) для обеспечения работы Приложения.
-     <br><br>
+   <br><br>
 3. Цели обработки персональных данных
    <br>
    3.1. Мы используем ваши персональные данные для следующих целей:
@@ -177,9 +177,9 @@
     - Восстановление доступа к учетной записи
     - Отправка push-уведомлений о новом контенте и напоминаний о медитациях (при вашем согласии)
     - Отправка уведомлений об изменениях в Политике конфиденциальности на электронную почту
-      <br>
+
     3.2. Мы не используем ваши данные для маркетинговых рассылок, показа рекламы или аналитики поведения.
-      <br><br>
+    <br><br>
 4. Использование сторонних сервисов
    <br>
    4.1. Собственный backend-сервер:
