@@ -63,7 +63,6 @@
     - Upon sale of the business, transfer of rights to the Application, or company merger
     - Upon request of authorized government agencies in cases provided by the legislation of the Russian Federation
     - With your explicit consent
-    <br>
 6. Data Storage and Protection
    <br>
    6.1. Storage Period:
@@ -81,7 +80,6 @@
     Only authorized Operator employees have access to personal data
    <br>
    6.3. Despite the security measures taken, we cannot guarantee 100% data protection during transmission over the internet.
-   <br>
 7. Your Rights
    <br>
    7.1. In accordance with the legislation of the Russian Federation, you have the following rights:
@@ -97,19 +95,16 @@
     Right to Withdraw Consent to Data Processing: you can withdraw consent to personal data processing by deleting your account
    <br>
     7.2. To exercise your rights, please contact us at: ntk.team.reserv@gmail.com
-   <br>
 8. Using the Application Without Registration
    <br>
    8.1. You can use the basic functionality of the Application without creating an account. In this case, we do not collect any personal data about you.
    <br>
    8.2. Access to advanced features (personal achievements, progress tracking, favorites) requires voluntary registration.
-   <br>
 9. Children
    <br>
    9.1. The Application is available to users of all ages without restrictions.
    <br>
    9.2. We do not knowingly collect personal data from children under 13 years of age. If you are a parent or legal guardian and discover that your child has provided us with personal data without your consent, please contact us at ntk.team.reserv@gmail.com, and we will delete this data.
-   <br>
 10. Changes to the Privacy Policy
     <br>
     10.1. We reserve the right to make changes to this Policy at any time.
@@ -119,13 +114,11 @@
     10.3. The current version of the Policy is always available in the Application. The date of the last update is indicated at the beginning of the document.
     <br>
     10.4. Continued use of the Application after the changes take effect means your agreement with the updated Policy.
-    <br>
 11. Applicable Law and Dispute Resolution
     <br>
     11.1. This Policy and all related relationships are governed by the legislation of the Russian Federation, including Federal Law No. 152-FZ dated July 27, 2006 "On Personal Data".
     <br>
     11.2. All disputes arising in connection with this Policy are subject to resolution in accordance with the current legislation of the Russian Federation.
-    <br>
 12. Contact Information
     <br>
     12.1. For all questions related to personal data processing and this Policy, you can contact us:
@@ -137,7 +130,6 @@
     Address: Marshala Savitskogo 30k1, Moscow, Russia
     <br>
     Email: ntk.team.reserv@gmail.com
-    <br>
 ------
 
 # ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ
@@ -153,7 +145,6 @@
    1.3. Используя Приложение и создавая учетную запись, вы соглашаетесь с условиями настоящей Политики. Если вы не согласны с условиями, пожалуйста, не используйте Приложение.
    <br>
    1.4. Приложение предназначено для медитации и содержит наборы различных аудиозаписей для успокоения и релаксации.
-   <br>
 2. Какие данные мы собираем
    <br>
    2.1. При регистрации (по желанию пользователя):
@@ -167,7 +158,6 @@
    <br>
    2.3. Локальное хранилище:
    Некоторые данные могут храниться локально на вашем устройстве (настройки приложения, кеш аудиофайлов, токены авторизации) для обеспечения работы Приложения.
-   <br>
 3. Цели обработки персональных данных
    <br>
    3.1. Мы используем ваши персональные данные для следующих целей:
@@ -179,7 +169,6 @@
     - Отправка уведомлений об изменениях в Политике конфиденциальности на электронную почту
 
     3.2. Мы не используем ваши данные для маркетинговых рассылок, показа рекламы или аналитики поведения.
-    <br>
 4. Использование сторонних сервисов
    <br>
    4.1. Собственный backend-сервер:
@@ -193,13 +182,11 @@
    <br>
    4.4. Отсутствие аналитики:
    Мы не используем сервисы аналитики (Google Analytics, Firebase Analytics, Yandex Metrica и др.) и не отслеживаем поведение пользователей в Приложении.
-   <br>
 5. Передача данных третьим лицам
    <br>
    5.1. Мы не продаём, не передаём и не раскрываем ваши персональные данные третьим лицам, за исключением случаев, указанных в настоящей Политике.
    <br>
    5.2. Передача данных может произойти в следующих случаях:
-   <br>
     - При продаже бизнеса, передаче прав на Приложение или слиянии компаний
     - По требованию уполномоченных государственных органов в случаях, предусмотренных законодательством Российской Федерации
     - С вашего явного согласия
@@ -221,7 +208,6 @@
     Доступ к персональным данным имеют только уполномоченные сотрудники Оператора
    <br>
    6.3. Несмотря на принимаемые меры безопасности, мы не можем гарантировать 100% защиту данных при их передаче через интернет.
-   <br>
 7. Ваши права
    <br>
    7.1. В соответствии с законодательством Российской Федерации вы имеете следующие права:
@@ -237,19 +223,16 @@
     Право на отзыв согласия на обработку данных: вы можете отозвать согласие на обработку персональных данных, удалив учетную запись
    <br>
     7.2. Для реализации своих прав, пожалуйста, свяжитесь с нами по адресу: ntk.team.reserv@gmail.com
-   <br>
 8. Использование Приложения без регистрации
    <br>
    8.1. Вы можете использовать базовый функционал Приложения без создания учетной записи. В этом случае мы не собираем никакие персональные данные о вас.
    <br>
     8.2. Для доступа к расширенным функциям (персональные достижения, отслеживание результатов, избранное) требуется добровольная регистрация.
-   <br>
 9. Дети
    <br>
    9.1. Приложение доступно для пользователей всех возрастов без ограничений.
    <br>
     9.2. Мы сознательно не собираем персональные данные детей младше 13 лет. Если вы являетесь родителем или законным представителем и обнаружили, что ваш ребенок предоставил нам персональные данные без вашего согласия, пожалуйста, свяжитесь с нами по адресу ntk.team.reserv@gmail.com, и мы удалим эти данные.
-   <br>
 10. Изменения в Политике конфиденциальности
     <br>
     10.1. Мы оставляем за собой право вносить изменения в настоящую Политику в любое время.
@@ -259,13 +242,11 @@
     10.3. Актуальная версия Политики всегда доступна в Приложении. Дата последнего обновления указана в начале документа.
     <br>
     10.4. Продолжение использования Приложения после вступления изменений в силу означает ваше согласие с обновленной Политикой.
-    <br>
 11. Применимое право и разрешение споров
     <br>
     11.1. Настоящая Политика и все связанные с ней отношения регулируются законодательством Российской Федерации, включая Федеральный закон от 27.07.2006 № 152-ФЗ «О персональных данных».
     <br>
     11.2. Все споры, возникающие в связи с настоящей Политикой, подлежат разрешению в соответствии с действующим законодательством Российской Федерации.
-    <br>
 12. Контактная информация
     <br>
     12.1. По всем вопросам, связанным с обработкой персональных данных и настоящей Политикой, вы можете обратиться к нам:
